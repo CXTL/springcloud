@@ -1,0 +1,13 @@
+com\dupake\common\test.class
+com\dupake\common\message\IRet.class
+com\dupake\common\dto\OrderDTO.class
+com\dupake\common\jms\JmsConfig.class
+com\dupake\common\utils\LoggerTool.class
+com\dupake\common\dto\OrderDTO$OrderDTOBuilder.class
+com\dupake\common\message\Result.class
+com\dupake\common\message\UserResult.class
+com\dupake\common\utils\IDGeneratorUtil.class
+com\dupake\common\message\BaseResult.class
+com\dupake\common\enums\YesNoSwitchEnum.class
+com\dupake\common\utils\IdUtil.class
+com\dupake\common\dto\UserDTO.class

@@ -1,0 +1,271 @@
+2020-04-16 16:48:01.014 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 200544 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 16:48:01.017 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 16:48:01.851 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 16:48:01.857 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 16:48:01.858 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 16:48:01.858 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 16:48:01.932 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 16:48:01.933 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 865 ms
+2020-04-16 16:48:02.069 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 16:48:02.329 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 16:48:02.347 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 16:48:02.350 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 1.778 seconds (JVM running for 2.682)
+2020-04-16 17:12:27.199 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:12:34.803 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 71080 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:12:34.807 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:12:35.991 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 17:12:36.006 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:12:36.007 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:12:36.007 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:12:36.072 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:12:36.072 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1211 ms
+2020-04-16 17:12:36.575 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:12:36.679 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:12:36.891 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:12:36.911 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:12:36.957 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:12:36.985 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:12:37.011 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 17:12:37.014 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 2.624 seconds (JVM running for 3.718)
+2020-04-16 17:15:05.373 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:15:05.373 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:15:05.378 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-04-16 17:15:20.707 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:15:25.666 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 212884 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:15:25.668 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:15:26.654 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 17:15:26.661 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:15:26.661 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:15:26.661 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:15:26.730 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:15:26.730 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1029 ms
+2020-04-16 17:15:27.146 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:15:27.205 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:15:27.325 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:15:27.336 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:15:27.365 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:15:27.496 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:15:27.522 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 17:15:27.526 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 2.252 seconds (JVM running for 3.222)
+2020-04-16 17:15:30.819 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:15:30.819 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:15:30.824 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-04-16 17:16:01.618 [http-nio-8888-exec-9] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:17:09.383 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:17:13.723 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 211364 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:17:13.726 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:17:14.938 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 17:17:14.954 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:17:14.955 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:17:14.955 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:17:15.022 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:17:15.022 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1250 ms
+2020-04-16 17:17:15.476 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:17:15.550 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:17:15.697 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:17:15.710 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:17:15.738 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:17:15.830 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:17:15.847 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 17:17:15.850 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 2.497 seconds (JVM running for 3.368)
+2020-04-16 17:17:30.095 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:17:30.096 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:17:30.100 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2020-04-16 17:17:32.049 [http-nio-8888-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:17:32.375 [http-nio-8888-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:20:08.989 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:20:08.992 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:20:09.000 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:20:13.909 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 211928 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:20:13.912 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:20:14.911 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 17:20:14.917 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:20:14.918 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:20:14.918 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:20:14.982 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:20:14.983 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1029 ms
+2020-04-16 17:20:15.399 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:20:15.459 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:20:15.574 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:20:15.586 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:20:15.610 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:20:15.708 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:20:15.725 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 17:20:15.728 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 2.261 seconds (JVM running for 3.311)
+2020-04-16 17:21:17.049 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:21:17.049 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:21:17.056 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 7 ms
+2020-04-16 17:21:31.324 [http-nio-8888-exec-10] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:21:31.552 [http-nio-8888-exec-10] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:22:41.415 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:22:41.417 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:22:41.426 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:22:44.503 [main] INFO  c.d.g.GatewayServerApplication - Starting GatewayServerApplication on LAPTOP-NB9SO3HA with PID 211788 (D:\person\workspace\test-workspace\springcloud-server\gateway-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:22:44.506 [main] INFO  c.d.g.GatewayServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:22:45.482 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 8888 (http)
+2020-04-16 17:22:45.488 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:22:45.489 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:22:45.489 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:22:45.554 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:22:45.554 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1008 ms
+2020-04-16 17:22:45.966 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:22:46.026 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:22:46.142 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:22:46.153 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:22:46.181 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:22:46.290 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8888"]
+2020-04-16 17:22:46.309 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 8888 (http) with context path ''
+2020-04-16 17:22:46.313 [main] INFO  c.d.g.GatewayServerApplication - Started GatewayServerApplication in 2.179 seconds (JVM running for 3.151)
+2020-04-16 17:22:55.626 [http-nio-8888-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:22:55.626 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:22:55.633 [http-nio-8888-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 7 ms
+2020-04-16 17:22:55.668 [http-nio-8888-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:22:55.808 [http-nio-8888-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:38:34.090 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 209624 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:38:34.093 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:38:35.132 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:38:35.138 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:38:35.138 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:38:35.139 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:38:35.205 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:38:35.205 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1070 ms
+2020-04-16 17:38:35.376 [main] INFO  o.a.c.core.StandardService - Stopping service [Tomcat]
+2020-04-16 17:38:35.383 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2020-04-16 17:41:21.180 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 213220 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:41:21.183 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:41:22.156 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:41:22.163 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:41:22.164 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:41:22.164 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:41:22.239 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:41:22.239 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1016 ms
+2020-04-16 17:41:22.706 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:41:22.769 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:41:22.885 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:41:22.896 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:41:22.921 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:41:22.936 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:41:22.953 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:41:22.956 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 2.172 seconds (JVM running for 3.068)
+2020-04-16 17:41:39.636 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:41:39.636 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:41:39.641 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-04-16 17:41:55.477 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:42:00.130 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 213212 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:42:00.134 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:42:01.283 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:42:01.289 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:42:01.290 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:42:01.290 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:42:01.377 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:42:01.377 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1193 ms
+2020-04-16 17:42:01.790 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:42:01.847 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:42:01.960 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:42:01.970 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:42:01.995 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:42:02.092 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:42:02.108 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:42:02.110 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 2.468 seconds (JVM running for 3.467)
+2020-04-16 17:42:42.485 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:42:42.485 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:42:42.489 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2020-04-16 17:43:03.328 [http-nio-9999-exec-9] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:43:03.637 [http-nio-9999-exec-9] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:47:45.307 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:47:45.311 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:47:45.317 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:47:48.940 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 201908 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:47:48.944 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:47:49.926 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:47:49.932 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:47:49.933 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:47:49.933 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:47:49.996 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:47:49.996 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1010 ms
+2020-04-16 17:47:50.410 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:47:50.484 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:47:50.628 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:47:50.641 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:47:50.668 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:47:50.763 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:47:50.779 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:47:50.781 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 2.296 seconds (JVM running for 3.216)
+2020-04-16 17:47:58.487 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:47:58.487 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:47:58.493 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 6 ms
+2020-04-16 17:47:58.564 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:47:58.907 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:49:59.509 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:49:59.511 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:49:59.517 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:50:04.403 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 213556 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:50:04.406 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:50:07.051 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:50:07.059 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:50:07.060 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:50:07.060 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:50:07.136 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:50:07.137 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 2692 ms
+2020-04-16 17:50:07.568 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:50:07.626 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:50:07.743 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:50:07.754 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:50:07.780 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:50:07.876 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:50:07.892 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:50:07.895 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 3.854 seconds (JVM running for 4.722)
+2020-04-16 17:50:11.309 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:50:11.309 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:50:11.314 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 5 ms
+2020-04-16 17:50:14.284 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:50:14.625 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:51:25.423 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:51:25.425 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:51:25.431 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:51:28.476 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 212488 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:51:28.480 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:51:29.434 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:51:29.440 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:51:29.441 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:51:29.441 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:51:29.503 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:51:29.503 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 983 ms
+2020-04-16 17:51:29.904 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:51:29.963 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:51:30.080 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:51:30.090 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:51:30.114 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:51:30.209 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:51:30.225 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:51:30.227 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 2.11 seconds (JVM running for 3.029)
+2020-04-16 17:51:35.640 [http-nio-9999-exec-1] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-04-16 17:51:35.640 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2020-04-16 17:51:35.644 [http-nio-9999-exec-1] INFO  o.s.w.s.DispatcherServlet - Completed initialization in 4 ms
+2020-04-16 17:51:35.718 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2020-04-16 17:51:35.977 [http-nio-9999-exec-1] INFO  c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2020-04-16 17:51:50.835 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:51:50.837 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 17:51:50.846 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 17:51:53.878 [main] INFO  c.d.o.OrderServerApplication - Starting OrderServerApplication on LAPTOP-NB9SO3HA with PID 213916 (D:\person\workspace\test-workspace\springcloud-server\order-server\target\classes started by asus in D:\person\workspace\test-workspace\springcloud-server)
+2020-04-16 17:51:53.881 [main] INFO  c.d.o.OrderServerApplication - No active profile set, falling back to default profiles: default
+2020-04-16 17:51:54.855 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat initialized with port(s): 9999 (http)
+2020-04-16 17:51:54.861 [main] INFO  o.a.c.h.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:51:54.862 [main] INFO  o.a.c.core.StandardService - Starting service [Tomcat]
+2020-04-16 17:51:54.862 [main] INFO  o.a.c.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.33]
+2020-04-16 17:51:54.925 [main] INFO  o.a.c.c.C.[.[.[/] - Initializing Spring embedded WebApplicationContext
+2020-04-16 17:51:54.925 [main] INFO  o.s.w.c.ContextLoader - Root WebApplicationContext: initialization completed in 1009 ms
+2020-04-16 17:51:55.336 [main] INFO  s.d.s.w.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-16 17:51:55.395 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-16 17:51:55.507 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
+2020-04-16 17:51:55.518 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+2020-04-16 17:51:55.543 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
+2020-04-16 17:51:55.645 [main] INFO  o.a.c.h.Http11NioProtocol - Starting ProtocolHandler ["http-nio-9999"]
+2020-04-16 17:51:55.662 [main] INFO  o.s.b.w.e.t.TomcatWebServer - Tomcat started on port(s): 9999 (http) with context path ''
+2020-04-16 17:51:55.665 [main] INFO  c.d.o.OrderServerApplication - Started OrderServerApplication in 2.137 seconds (JVM running for 3.048)
+2020-04-16 18:09:27.714 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2020-04-16 18:09:27.721 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2020-04-16 18:09:27.730 [SpringContextShutdownHook] INFO  c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2020-04-16 18:09:27.735 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
